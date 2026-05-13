@@ -15,11 +15,27 @@ Azure Cloud Upload Dashboard is a full-stack file upload dashboard built with Re
 
 ## Screenshots
 
-Add screenshots of the dashboard, upload flow, authentication screens, and file management view here after the app is running.
+### Login Page
 
-```md
-![Dashboard](./screenshots/dashboard.png)
-![Upload Flow](./screenshots/upload.png)
+![Login Page](https://github.com/ankit85456/azure-cloud-upload-dashboard/blob/669c8e6470077058502c64888e1296c6c6495f37/Screenshot%202026-05-13%20235841.png)
+
+---
+
+### Dashboard
+
+![Dashboard](https://github.com/ankit85456/azure-cloud-upload-dashboard/blob/669c8e6470077058502c64888e1296c6c6495f37/Screenshot%202026-05-14%20000003.png)
+
+---
+
+### Upload Section
+
+![Upload Section](https://github.com/ankit85456/azure-cloud-upload-dashboard/blob/669c8e6470077058502c64888e1296c6c6495f37/Screenshot%202026-05-14%20000020.png)
+
+---
+
+### Uploaded Files
+
+![Uploaded Files](https://github.com/ankit85456/azure-cloud-upload-dashboard/blob/669c8e6470077058502c64888e1296c6c6495f37/Screenshot%202026-05-14%20000036.png)
 ```
 
 ## Tech Stack
@@ -156,3 +172,5 @@ npm run lint
 - Add automated tests for authentication, upload, and storage workflows
 - Add CI/CD deployment workflow for frontend and backend services
 - Add production configuration for CORS, rate limiting, and request logging
+
+-Ankit Kumar
