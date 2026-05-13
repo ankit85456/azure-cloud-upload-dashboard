@@ -34,25 +34,25 @@ Add screenshots of the dashboard, upload flow, authentication screens, and file 
 
 ```text
 azure-file-upload/
-├── backend/
-│   ├── controllers/
-│   ├── middleware/
-│   ├── models/
-│   ├── routes/
-│   ├── services/
-│   ├── package.json
-│   └── server.js
-├── frontend/
-│   ├── public/
-│   ├── src/
-│   │   ├── components/
-│   │   ├── context/
-│   │   ├── pages/
-│   │   └── services/
-│   ├── package.json
-│   └── vite.config.js
-├── .gitignore
-└── README.md
+|-- backend/
+|   |-- controllers/
+|   |-- middleware/
+|   |-- models/
+|   |-- routes/
+|   |-- services/
+|   |-- package.json
+|   `-- server.js
+|-- frontend/
+|   |-- public/
+|   |-- src/
+|   |   |-- components/
+|   |   |-- context/
+|   |   |-- pages/
+|   |   `-- services/
+|   |-- package.json
+|   `-- vite.config.js
+|-- .gitignore
+`-- README.md
 ```
 
 ## Installation
